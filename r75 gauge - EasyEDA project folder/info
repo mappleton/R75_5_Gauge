@@ -1,0 +1,260 @@
+{
+  "uuid": "22cf4bb5c6af351e305739de332d8850",
+  "path": "Offline/r75 gauge",
+  "name": "r75 gauge",
+  "content": "",
+  "created_at": "2020-12-17 19:26:18",
+  "updated_at": "2021-06-26 18:16:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "496afb30cb65477b352461979d9cdc59",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "stepper board",
+      "filename": "stepper board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ea7c6195725049d2acd1d4c15e710b4b": 2,
+        "6c939f0b67d24ba88150ca5feca61f68": 8
+      },
+      "BOM": [],
+      "updateTime": 1610764101,
+      "createTime": 1608266893,
+      "histories": [],
+      "created_at": "2020-12-17 20:48:13",
+      "updated_at": "2021-01-15 18:28:21"
+    },
+    {
+      "uuid": "deac5c6319e38d49055d6d60b7705bf8",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "odometer oled board",
+      "filename": "odometer oled board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8a0047f834e347c0a9ca8f2579cc6a74": 1
+      },
+      "BOM": [],
+      "updateTime": 1611354882,
+      "createTime": 1610760767,
+      "histories": [],
+      "created_at": "2021-01-15 17:32:47",
+      "updated_at": "2021-01-22 14:34:42"
+    },
+    {
+      "uuid": "71121dd50bd4400e28bf10868b184fee",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "controller board- no routing",
+      "filename": "controller board- no routing.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "956db0a5406d4f7b9062ee3957538e31": 2
+      },
+      "BOM": [],
+      "updateTime": 1610763828,
+      "createTime": 1610762940,
+      "histories": [],
+      "created_at": "2021-01-15 18:09:00",
+      "updated_at": "2021-01-15 18:23:48"
+    },
+    {
+      "uuid": "1aa98c3dc4f5ef51cc782fb25b98e2ae",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "controller board",
+      "filename": "controller board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "956db0a5406d4f7b9062ee3957538e31": 2,
+        "170b9e316df94986bd8ea0f35b8fe6f5": 1,
+        "10740f144756421793e1ecc7520b3129": 1,
+        "1d35492e4bed4a2fae33fa3ddede7c02": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1611191243,
+      "createTime": 1611184133,
+      "histories": [],
+      "created_at": "2021-01-20 15:08:53",
+      "updated_at": "2021-01-20 17:07:23"
+    },
+    {
+      "uuid": "8f358301f29ec16729527d80af2c4b50",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "stepper board V.2",
+      "filename": "stepper board V.2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ea7c6195725049d2acd1d4c15e710b4b": 2,
+        "6c939f0b67d24ba88150ca5feca61f68": 8
+      },
+      "BOM": [],
+      "updateTime": 1612312516,
+      "createTime": 1612231309,
+      "histories": [],
+      "created_at": "2021-02-01 18:01:49",
+      "updated_at": "2021-02-02 16:35:16"
+    },
+    {
+      "uuid": "96337a2373f6f6c0c103ab9675a09a16",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "controller board v.2",
+      "filename": "controller board v.2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "96fa4fea095c4f8baa10b2d7bf3b240a": 2,
+        "170b9e316df94986bd8ea0f35b8fe6f5": 1,
+        "10740f144756421793e1ecc7520b3129": 1,
+        "1d35492e4bed4a2fae33fa3ddede7c02": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1612402335,
+      "createTime": 1612231679,
+      "histories": [],
+      "created_at": "2021-02-01 18:07:59",
+      "updated_at": "2021-02-03 17:32:15"
+    },
+    {
+      "uuid": "779b4362f7698f4d066275b63c18df4c",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "odometer oled board v2",
+      "filename": "odometer oled board v2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8a0047f834e347c0a9ca8f2579cc6a74": 1
+      },
+      "BOM": [],
+      "updateTime": 1612233631,
+      "createTime": 1612231775,
+      "histories": [],
+      "created_at": "2021-02-01 18:09:35",
+      "updated_at": "2021-02-01 18:40:31"
+    },
+    {
+      "uuid": "2829f0cdce49d7fafd10638231a02297",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "controller board v.2 Arduino nano",
+      "filename": "controller board v.2 Arduino nano.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "956db0a5406d4f7b9062ee3957538e31": 2,
+        "170b9e316df94986bd8ea0f35b8fe6f5": 1,
+        "10740f144756421793e1ecc7520b3129": 1,
+        "1d35492e4bed4a2fae33fa3ddede7c02": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1612315260,
+      "createTime": 1612315260,
+      "histories": [],
+      "created_at": "2021-02-02 17:21:00",
+      "updated_at": "2021-02-02 17:21:00"
+    },
+    {
+      "uuid": "ea414cb5407727eedc989d09674872aa",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "stepper board v3",
+      "filename": "stepper board v3.json",
+      "description": "Adding diodes proper",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ea7c6195725049d2acd1d4c15e710b4b": 2,
+        "6c939f0b67d24ba88150ca5feca61f68": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1613355956,
+      "createTime": 1613273759,
+      "histories": [],
+      "created_at": "2021-02-13 19:35:59",
+      "updated_at": "2021-02-14 18:25:56"
+    },
+    {
+      "uuid": "2d440983be9ac8773c76130d74ead4b7",
+      "puuid": "22cf4bb5c6af351e305739de332d8850",
+      "title": "controller board v.3",
+      "filename": "controller board v.3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "96fa4fea095c4f8baa10b2d7bf3b240a": 2,
+        "10740f144756421793e1ecc7520b3129": 1,
+        "1d35492e4bed4a2fae33fa3ddede7c02": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1624756599,
+      "createTime": 1624752791,
+      "histories": [],
+      "created_at": "2021-06-26 17:13:11",
+      "updated_at": "2021-06-26 18:16:39"
+    }
+  ],
+  "sort": [],
+  "title": "r75 gauge",
+  "foldername": "r75 gauge",
+  "schfilename": "r75 gauge.json",
+  "schfilemtime": 1608261978546.9536
+}
