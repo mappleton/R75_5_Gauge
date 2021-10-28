@@ -1,25 +1,12 @@
 
 
 /*
+ *Michael Appleton August 2021
+
+ *Adapted from
  * Classic Mini GPS Speedometer
  * Luke Hurst Nov 2019
  * http://retromini.co.uk
- * 
- * Change Log
- * V1 - Basic functionality to allow selection between GPS module or pulse signal
- * V2 - Moved pulses per mile calibration to startup
- * V3 - Removed interrupt save function
- * V4 - 09/11/2019 - Changed to EEPROMWearLevel Library
- * V5 - 11/11/2019 - Added Speed Buffer code
- * V6 - 15/11/2019 - Corrected speed range to match dial. Added if statement to zero speed if below 10mph due to dial starting at 10mph
- * V7 - 06/12/2019 - Added update period to stepper code
- * V8 - 06/12/2019 - Changed motor update function to updateBlocking
- * V9 - 06/12/2019 - Changed motor set position code to ignore speeds beloew 10mph
- * V10 - 06/12/2019 - Added speedo sampling and averaging code
- * V11 - 07/12/2019 - Corrected float calculations to fix speed and step results
- * V12 - 09/12/2019 - Changed motor update from updateBlocking to update. Added code to write PulsesPerMile to memory
- * V13 - 13/12/2019 - Changed odometer code to use single float to store distance travelled. Removed update odomoter function.
- * V14 - 14/12/2019 - Added code to reset odometer to 0 after 99,999 miles to avoid overspill on screen.
  */
 
 //General libraries required
